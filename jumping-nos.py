@@ -1,4 +1,4 @@
-# Ques: 
+# Ques: https://practice.geeksforgeeks.org/problems/jumping-numbers/0
 # Soln:
 t=int(input(''))
 while(t>0):
